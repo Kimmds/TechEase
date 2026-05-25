@@ -61,7 +61,8 @@ body {
   box-shadow: 0 0 20px rgba(168,85,247,0.5);
 }
   .learn {
-    padding: 30px;
+    margin-top:0px;
+    padding: 60px 20px;
     text-align: center;
   }
   .cards {
@@ -217,8 +218,8 @@ opacity: 0.9;
 }
 .contact {
   text-align: center;
-  padding: 30px;
   margin-top:0px;
+  padding: 60px 20px;
   color: white;
   background: linear-gradient(135deg, #0f0f1a, #312e81, #6d28d9);
     min-height: 100vh;
